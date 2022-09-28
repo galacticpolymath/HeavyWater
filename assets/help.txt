@@ -1,0 +1,3 @@
+The _ before a folder name indicates a default folder that shouldn't be renamed or deleted.
+
+These are expected for galacticPubs projects to work properly.
